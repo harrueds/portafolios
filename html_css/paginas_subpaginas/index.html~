@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>Inicio</title>
+</head>
+<header><br><br>
+    <nav>
+        <a href="pseint/index.html"><button>PSEINT</button></a>
+        <a href="logica/index.html"><button>Lógica de programación</button></a>
+        <a href="python/index.html"><button>Python</button></a>
+        <a href="lenguajec/index.html"><button>Lenguaje C</button></a>
+    </nav>
+    <br>
+    <hr>
+    <h1>Pensamiento computacional y programación, electivo</h1>
+    <hr>
+</header>
+
+<body>
+    <p>El electivo es eso, un ELECTIVO, se elige, por lo que lo obvio es querer hacerlo.</p>
+    <p>Si está aquí es porque decidió estar, no porque llegó arrancando de otras asignaturas</p><br>
+    <p>En la parte superior podrá encontrar accesos a páginas con tenas específicos, úselos</p>
+</body>
+
+</html>

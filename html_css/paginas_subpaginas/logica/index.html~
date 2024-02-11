@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../estilo.css">
+    <title>Inicio</title>
+</head>
+<header><br><br>
+    <nav>
+        <a href="../index.html"><button>Página principal</button></a>
+        <a href="../pseint/index.html"><button>PSEINT</button></a>
+        <a href="index.html"><button>Lógica de programación</button></a>
+        <a href="../python/index.html"><button>Python</button></a>
+        <a href="../lenguajec/index.html"><button>Lenguaje C</button></a>
+    </nav>
+    <br>
+    <hr>
+    <h1>Lógica de Programación</h1>
+    <hr>
+</header>
+
+<body>
+    <p>La lógica es una rama muy amplia de la filosofía, y es aplicable a muchos campos</p>
+    <p>Existe la lógica matemática, la lógica proposicional, la lógica booleana, la lógica declarativa, la lógica de
+        programación y varías otras.</p>
+    <p>La lógica de programación se obtiene desde el razonamiento lógico matemático (por eso se relaciona mucho con las
+        matemáticas).</p>
+    <p>Para poder dominar la lógica de programación existen dos caminos:</p>
+
+    <h3>
+        <ol>
+            <li>Estudiar por años los conceptos teóricos y conceptuales.</li>
+            <li>Empezar a crear programas que soucionen problemas sencillos e ir avanzando en complejidad.</li>
+        </ol>
+    </h3>
+    <p>Obviamente elegiremos la segunda, no tenemos tiempo para la primera.</p>
+</body>
+
+</html>

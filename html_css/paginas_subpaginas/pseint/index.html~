@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../estilo.css">
+    <title>PSeint</title>
+</head>
+<header><br><br>
+        <nav>
+            <a href="../index.html"><button>Página principal</button></a>
+            <a href="index.html"><button>PSEINT</button></a>
+            <a href="../logica/index.html"><button>Lógica de programación</button></a>
+            <a href="../python/index.html"><button>Python</button></a>
+            <a href="../lenguajec/index.html"><button>Lenguaje C</button></a>
+        </nav>
+        <br>
+        <hr>
+        <h1>PSeint</h1>
+        <img src="../imag/pseint.png" alt="logo PSeint">
+        <hr>
+</header>
+<body>
+
+    <p>PSeint es un programa, que está disponible para Linux, Windows y MacOS.</p>
+    <p>También hay una versión llamada <it>pseudocode</it> que es para Android.</p>
+    <p>En iphone hay una alternativa, pero obviamente, no es gratis.</p>
+
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../estilo.css">
+    <title>Python</title>
+</head>
+<header><br><br>
+    <nav>
+        <a href="../index.html"><button>Página principal</button></a>
+        <a href="../pseint/index.html"><button>PSEINT</button></a>
+        <a href="../logica/index.html"><button>Lógica de programación</button></a>
+        <a href="index.html"><button>Python</button></a>
+        <a href="../lenguajec/index.html"><button>Lenguaje C</button></a>
+    </nav>
+    <br>
+    <hr>
+    <h1>Python</h1>
+    <img src="../imag/python.png" alt="logo python">
+    <hr>
+</header>
+
+<body>
+    <p>Python es un lenguaje de programación interpretado, esto significa que es el mismo código el que se ejecuta, no
+        se crea un archivo ejecutable aparte para obtener un programa funcional.</p>
+    <p>Tambien es un lenguaje de alto nivel, esto significa que tiene muchas similitudes con el lenguaje usual.</p>
+    <p>Es un lenguaje fuertemente tipado, esto es que tiene muy bien definidos sus tipos de datos, los números son
+        números y las letras son letras, no es posible confundirlos y se deben declarar.</p>
+    <p>Es uno de los lenguajes con una curva de aprendizaje más corta, esto significa que es muy fácil de aprender.</p>
+    <p>Python tiene muchas aplicaciones, inteligencia artificial, aprendizaje automático (no se hagan ilusiones, eso es
+        solo para las máquinas), se aplica al manejo de grandes volúmenes de datos.</p>
+
+</body>
+
+</html>
