@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color:aqua;
+}
+
+nav {
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+a {
+    background-color: blueviolet;
+    color:aquamarine;
+
+}
+
+a:hover {
+    background-color: aquamarine;
+    color:blueviolet;
+}
